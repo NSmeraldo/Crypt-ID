@@ -1,5 +1,5 @@
 # Crypt-ID
-Senior Design 2 final project
+My name is Nick Smeraldo and this is part of my Senior Design 2 final project
 
 ## **About:**
 
